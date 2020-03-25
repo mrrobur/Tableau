@@ -1,0 +1,1 @@
+05 3 * * * cd /home/ec2-user/projects/tableau/covid && bash /home/ec2-user/projects/tableau/covid/commands
